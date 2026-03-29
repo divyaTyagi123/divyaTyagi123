@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Divya 
 
-<!--
-**divyaTyagi123/divyaTyagi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer | Firebase | AI-Powered Mobile Apps  
 
-Here are some ideas to get you started:
+I build cross-platform mobile applications using Flutter and integrate Machine Learning to create intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+- Flutter & Dart  
+- Firebase (Auth, Firestore)  
+- REST APIs  
+- OpenCV (Face Recognition)  
+
+---
+
+##  Projects
+
+###  Face Recognition Attendance System
+- Real-time face detection & recognition  
+- Cosine similarity-based matching  
+- Lecture-based attendance system  
+- Firebase integration  
+
+###  Flutter E-commerce App
+- Firebase Authentication  
+- API integration  
+- Clean UI using Riverpod  
+
+---
+
+##  Currently Learning
+- Advanced Flutter architecture  
+- ML integration in mobile apps  
+
+---
+
+##  Connect with mein
+- LinkedIn: www.linkedin.com/in/divya-tyagi571 
